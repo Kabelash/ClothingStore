@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clothing Store</string>
+    <string name="text_total">Total</string>
+    <string name="checkout">Checkout</string>
+    <string name="image">Product Image</string>
+    <string name="remove_shopping_cart">Remove Shopping Cart</string>
+    <string name="add_shopping_cart">Add Shopping Cart</string>
+    <string name="menu_favourite">Favourites</string>
+</resources>
